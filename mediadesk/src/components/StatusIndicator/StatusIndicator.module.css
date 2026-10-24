@@ -1,0 +1,36 @@
+.wrapper {
+  margin: 0.1rem 0;
+}
+
+.banner {
+  padding: 0.6rem 0.85rem;
+  border-radius: 6px;
+  font-size: 0.825rem;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.loading {
+  background-color: #fef3c7;
+  color: #92400e;
+  border-left: 3px solid #f59e0b;
+}
+
+.ready {
+  background: #eef2ff;
+  color: #3730a3;
+  border-left: 3px solid #4f46e5;
+}
+
+.filterTag {
+  background-color: #4f46e5;
+  color: #ffffff;
+  font-size: 0.675rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
